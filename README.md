@@ -23,4 +23,30 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
+## 📊 Github Stats
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlistairBiswas&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlistairBiswas&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlistairBiswas&theme=aura_dark&utcOffset=6)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlistairBiswas&theme=aura_dark&layout=donut&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AlistairBiswas&theme=aura_dark&card_width=700&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+    
+![](https://github-profile-trophy.vercel.app/?username=AlistairBiswas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+## 🤵‍♂️ Profile Views
+<div align="center">
+    
+![:SyedMashruk](https://count.getloli.com/get/@:AlistairBiswas?theme=aura_dark)
+
 </div>
