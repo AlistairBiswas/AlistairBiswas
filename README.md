@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 
-<a href="https://github.com">
+<a href="[https://github.com](https://github.com/AlistairBiswas/Academic_CV/blob/main/Academic_CV.pdf)">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
