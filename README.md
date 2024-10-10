@@ -65,7 +65,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlistairBiswas&theme=aura_dark&utcOffset=6)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlistairBiswas&theme=aura_dark&layout=donut&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlistairBiswas&theme=aura_dark&layout=donut)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlistairBiswas&theme=aura_dark&card_width=700&hide_border=true)
 
